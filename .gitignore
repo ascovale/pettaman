@@ -1,0 +1,75 @@
+# =============== #
+# Unity generated  #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# ============= #
+# Memory Profiler #
+# ============= #
+MemoryCaptures/
+
+# ============================= #
+# Asset Store and Package cache #
+# ============================= #
+AssetStoreTools/
+
+# ======================== #
+# Visual Studio / Rider    #
+# ======================== #
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.slnx
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ======================== #
+# Crash Reports            #
+# ======================== #
+sysinfo.txt
+crashlytics-build.properties
+
+# ======================== #
+# Builds                   #
+# ======================== #
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ======================== #
+# Compressed Archives      #
+# ======================== #
+*.7z
+*.gz
+*.rar
+*.tar
+*.zip
